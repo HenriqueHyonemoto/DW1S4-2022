@@ -1,0 +1,34 @@
+table, td, th{
+    border: solid 1px red;
+}
+td,th{
+    padding: 30px 60px;
+    text-align:center; 
+
+}  
+
+
+body {background-color: rgb(158, 214, 235);}
+
+#ToBeApplied td{
+    padding: 2px 4px;
+}
+
+.linha_branco{
+    background-color: white;
+}
+
+
+
+.linha_green{
+    background-color: green;
+}
+.linha_red{
+    background-color: red;
+}
+.linha_blue{
+    background-color: blue;
+}
+.linha_yellow{
+    background-color: yellow;
+}

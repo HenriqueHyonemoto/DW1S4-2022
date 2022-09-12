@@ -1,0 +1,36 @@
+
+    table, td{
+        border: 1px solid black;
+    }
+
+    .linha_verdeEscuro{
+        background-color: green;
+    }
+
+    .linha_verdeClaro{
+        background-color: lightgreen;
+    }
+    
+    .linha_Preto{
+        background-color: black;
+    
+    }
+    .linha_Cinza{
+        background-color: grey;
+        color: white;
+    }
+    .linha_CinzaClaro{
+        background-color: rgb(187, 187, 187);
+        color: white;
+    }
+
+    .linha_CinzaFumaca{
+        background-color: rgb(177, 177, 177);
+        color: white;
+    }
+    .linha_Branco{
+        background-color: black;
+        color: white;
+    }
+
+   
